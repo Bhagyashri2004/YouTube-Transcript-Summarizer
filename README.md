@@ -24,5 +24,6 @@ PyQt6, SQLite, hashlib, youtube_transcript_api, Groq API, requests
 
 <img width="1353" height="693" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/ead8c99c-a134-41cd-b1e7-cb56fd700149" />
 
-![Uploading Screenshot (3).png…]()
+<img width="1366" height="693" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/8fd48fb1-03db-4fa7-adc5-620c42495d8d" />
+
 
